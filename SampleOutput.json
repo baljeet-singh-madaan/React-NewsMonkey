@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": "google-news-au",
+          "name": "Google News (Australia)"
+        },
+        "author": "ABC News",
+        "title": "Josh Frydenberg considering return to politics at next election after Kooyong boundary change - ABC News",
+        "description": null,
+        "url": "https://news.google.com/rss/articles/CBMiX2h0dHBzOi8vd3d3LmFiYy5uZXQuYXUvbmV3cy8yMDI0LTA2LTAyL2pvc2gtZnJ5ZGVuYmVyZy1jb25zaWRlcmluZy1yZXR1cm4tdG8tcG9saXRpY3MvMTAzOTI0NjI40gEoaHR0cHM6Ly9hbXAuYWJjLm5ldC5hdS9hcnRpY2xlLzEwMzkyNDYyOA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2024-06-01T23:27:09+00:00",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "",
+        "title": "Charlamagne tha God: America has zero protection from people like Donald Trump | CNN Politics",
+        "description": "Radio host Charlamagne tha God discounts claims that Black voters will sympathize with Trump being for found guilty in his criminal hush money trial.",
+        "url": "https://www.cnn.com/videos/politics/2024/06/01/smr-charlamagne-tha-god-on-black-voters-digvid.cnn",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/240601092256-smr-charlamagne.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-01T16:40:38Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-american-conservative",
+          "name": "The American Conservative"
+        },
+        "author": null,
+        "title": "Politics Archives - The American Conservative",
+        "description": null,
+        "url": "https://www.theamericanconservative.com/category/politics/",
+        "urlToImage": null,
+        "publishedAt": "2022-07-07T21:37:27.3936289Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-jerusalem-post",
+          "name": "The Jerusalem Post"
+        },
+        "author": null,
+        "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+        "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+        "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+        "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+        "publishedAt": "2019-11-13T04:41:00Z",
+        "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+      }
+    ]
+  }
